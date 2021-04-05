@@ -1,0 +1,38 @@
+h2
+{
+   /* border:2px black solid;*/
+    color:blue;
+    /*background-color:mediumorchid;
+    box-shadow: 2px 4px 0px black;
+   /* text-decoration: underline;*/
+}
+.ab
+{   font-size: 2em;
+    text-align: center;
+    font-weight: bold;
+    color:blue;
+}
+a:hover
+{font-weight: bold;
+    color:cyan;
+    
+}
+body{
+    background-image: url(greyzz.png);
+}
+.img
+{
+    float: right;
+
+}
+.abcd
+{
+    font-size: 1em;
+}
+.abc{
+    border: 1px solid black;
+    box-shadow: 2px 2px 2px black;
+}
+h1{
+    color: blue;
+}
